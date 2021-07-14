@@ -21,7 +21,7 @@ Frankfurt University of Applied Sciences
 By default, when cloning a project with submodules, the directories containing submodules are cloned  
 but have nothing inside. To clone the whole projects and its submodules, please use the command:
 
-git clone --recurse-submodules https://github.com/CMGHuy/MasterThesis-SourceCode.git
+git clone --recurse-submodules https://github.com/CMGHuy/MasterThesis-TestAutomationSystem.git
 
 In the future, after cloning the project, if there are any updates on the submodules, please run the following command to update:
 
