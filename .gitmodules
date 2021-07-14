@@ -1,0 +1,36 @@
+[submodule "MonitoringWebApplication"]
+	path = MonitoringWebApplication
+	url = https://github.com/CMGHuy/MonitoringWebApplication.git
+[submodule "ConfigDownloader"]
+	path = ConfigDownloader
+	url = https://github.com/CMGHuy/ConfigDownloader.git
+[submodule "FileDivider"]
+	path = FileDivider
+	url = https://github.com/CMGHuy/FileDivider.git
+[submodule "TestPlanner"]
+	path = TestPlanner
+	url = https://github.com/CMGHuy/TestPlanner.git
+[submodule "OpenTextAutomation"]
+	path = OpenTextAutomation
+	url = https://github.com/CMGHuy/OpenTextAutomation.git
+[submodule "Ansible"]
+	path = Ansible
+	url = https://github.com/CMGHuy/Ansible.git
+[submodule "Concourse-TestAutomation"]
+	path = Concourse-TestAutomation
+	url = https://github.com/CMGHuy/Concourse-TestAutomation.git
+[submodule "TemplateConverter"]
+	path = TemplateConverter
+	url = https://github.com/CMGHuy/TemplateConverter.git
+[submodule "AutomationScript"]
+	path = AutomationScript
+	url = https://github.com/CMGHuy/AutomationScript.git
+[submodule "DatabaseInsertion"]
+	path = DatabaseInsertion
+	url = https://github.com/CMGHuy/DatabaseInsertion.git
+[submodule "CheckTestProgress"]
+	path = CheckTestProgress
+	url = https://github.com/CMGHuy/CheckTestProgress.git
+[submodule "Terraform"]
+	path = Terraform
+	url = https://github.com/CMGHuy/Terraform.git
